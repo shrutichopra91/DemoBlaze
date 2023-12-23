@@ -1,0 +1,3 @@
+stepDefinitions\BlazeStepDefinition.class
+runner\BlazeTestNGRunner.class
+stepDefinitions\EasyTripStepDefinition.class
